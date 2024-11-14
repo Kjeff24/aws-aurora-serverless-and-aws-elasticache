@@ -1,0 +1,4 @@
+env.sh
+node_modules
+application/node_modules
+scripts/node_modules
