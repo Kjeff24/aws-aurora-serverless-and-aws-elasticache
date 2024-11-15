@@ -12,6 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.549.0",
     "lodash": "^4.17.15",
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "scripts": "file:"
   }
 }

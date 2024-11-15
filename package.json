@@ -2,6 +2,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.691.0",
     "application": "file:application",
+    "aws-serverless-express": "^3.4.0",
     "scripts": "file:scripts"
   }
 }
